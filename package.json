@@ -13,6 +13,7 @@
     "chai": "^1.10.0",
     "karma": "^0.12.28",
     "karma-chai": "^0.1.0",
+    "karma-live-preprocessor": "^0.2.2",
     "karma-mocha": "^0.1.9",
     "karma-phantomjs-launcher": "^0.1.4",
     "karma-sinon": "^1.0.4",
