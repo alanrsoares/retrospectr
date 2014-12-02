@@ -1,0 +1,17 @@
+{
+  "name": "retrospectr",
+  "version": "0.1.0",
+  "authors": [
+    "Alan R. Soares <alan.soares@xero.com>"
+  ],
+  "description": "A simple collaborative tool for managing agile retrospectives",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
