@@ -1,0 +1,11 @@
+{
+  "name": "retrospectr",
+  "version": "0.1.0",
+  "description": "A simple collaborative tool to manage agile retrospectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan R. Soares (@alanrsoares)",
+  "license": "ISC"
+}
