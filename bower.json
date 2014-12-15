@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "semantic-ui": "~1.1.0",
-    "c3": "~0.4.8"
+    "c3": "~0.4.8",
+    "angularfire": "~0.9.0"
   }
 }
